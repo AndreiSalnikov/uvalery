@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+
+/*Шрифты*/
+@import url(../vendor/fonts/Geometria/fonts.css);
+
+/*Page*/
+@import url(./blocks/page/page.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/tender/tender.css);
+@import url(./blocks/filter/filter.css);
+@import url(./blocks/actual-vacancies/actual-vacancies.css);
+@import url(./blocks/pagination/pagination.css);

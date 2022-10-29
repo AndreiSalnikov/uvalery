@@ -1,0 +1,15 @@
+@import url(./__container/footer__container.css);
+@import url(./__description/footer__description.css);
+@import url(./__img/footer__img.css);
+@import url(./__link-email/footer__link-email.css);
+@import url(./__link/footer__link.css);
+
+.footer {
+    background: linear-gradient(90deg, #719D44 0%, #57853C 100%);
+    box-shadow: 0px 20px 24px rgba(113, 181, 41, 0.26);
+    padding: 81px 46px  46px ;
+}
+
+
+
+
